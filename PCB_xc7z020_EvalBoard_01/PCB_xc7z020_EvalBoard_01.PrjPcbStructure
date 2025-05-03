@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=01_Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_Main.SchDoc|FileName=XX_BANK0_JTAG_AND_USART.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_Main.SchDoc|FileName=XX_BANK502.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=01_Main.SchDoc|FileName=XX_DDR3.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01_Main.SchDoc|FileName=XX_FPGA.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=01_Main.SchDoc|FileName=XX_MCU.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01_Main.SchDoc|FileName=XX_Power.SchDoc|SheetNumber=4
